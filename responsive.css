@@ -7,9 +7,7 @@
         font-size: 30px;
     }
     
-     .btn {
-        width: 100%;
-    }
+  
     /* MAIN TAMBAHAN */
     .lesson {
         width: 50%;
@@ -47,6 +45,12 @@
     }
     .menu-icon {
         display: block;
+    }
+    .btn {
+        width: 100%;
+    }
+    .facebook {
+        margin-bottom: 10px;
     }
     /* MAIN TAMBAHAN */
     .lesson {
