@@ -6,6 +6,10 @@
         color: white;
         font-size: 30px;
     }
+    
+     .btn {
+        width: 100%;
+    }
     /* MAIN TAMBAHAN */
     .lesson {
         width: 50%;
